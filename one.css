@@ -1,0 +1,20 @@
+div{
+padding: 30%;
+text-align: right;
+word-spacing: 20px;
+border: 70% rebeccapurple solid;
+}
+img{
+width: 30px;
+}
+
+.batot{
+padding: 15px;
+font-size: 40px;
+width: fit-content;
+text-shadow: -1px 1px;
+border-bottom: 10PX solid rgb(180, 135, 135);
+text-align: center;
+font-weight: bolder;
+}
+
